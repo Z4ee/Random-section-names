@@ -1,3 +1,3 @@
 # Random-section-names
+![R](Screenshot_35.png)
 This tool made your section titles random
-![Random section names demo](Screenshot_35.png)
